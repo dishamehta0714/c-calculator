@@ -1,6 +1,6 @@
 📘 Simple Calculator in C
 
-<a href="https://onlinegdb.com/2qpWb6pTXR">calculator </a>
+<a href="https://onlinegdb.com/2qpWb6pTXR" target="_blank">Run Calculator</a>
 
 📌 Description
 

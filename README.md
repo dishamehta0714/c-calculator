@@ -1,6 +1,7 @@
 📘 Simple Calculator in C
 
-<a href="https://onlinegdb.com/2qpWb6pTXR"></a>
+<a href="https://onlinegdb.com/2qpWb6pTXR">calculator </a>
+
 📌 Description
 
 This is a basic calculator program written in C language using user-defined functions.
